@@ -11,8 +11,9 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("mac.jpg");
-    min-height: 100%;
+    background-image: url("faceoff.jpg.png");
+    max-height: 80%;
+    min-height: 80%;
 }
 
 .w3-bar .w3-button {
